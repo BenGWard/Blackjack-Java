@@ -10,6 +10,8 @@ public class Main {
         char playAgain;
         char hitOrStay;
 
+        system.out.println("Casino Blackjack");
+        system.out.println("Dealer hits on soft 17");
         Console.WriteLine("Casino Blackjack");
         Console.WriteLine("Dealer hits on soft 17");
         Console.WriteLine();
